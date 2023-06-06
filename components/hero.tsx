@@ -54,11 +54,11 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              We provide innovative solutions that help businesses of all sizes
-              improve their operations and achieve their goals. We are committed
-              to providing our customers with the best possible service and
-              support, and we are always looking for new ways to help them
-              succeed.
+              We provide innovative software solutions that help businesses of
+              all sizes improve their operations and achieve their goals. We are
+              committed to providing our customers with the best possible
+              service and support, and we are always looking for new ways to
+              help them succeed.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
