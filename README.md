@@ -88,3 +88,8 @@ We're an Italian developer/designer duo creating high-quality design/code resour
 ## Stay in the loop
 
 If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe). -->
+
+Company website
+Lexa Technologies, LLC
+
+This is an IT company dealing with Software systems development and maintenance.
