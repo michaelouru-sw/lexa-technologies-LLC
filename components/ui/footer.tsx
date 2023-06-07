@@ -15,7 +15,12 @@ export default function Footer() {
               <div className="mb-2">
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="Cruip">
-                  <Image src={ColoredLogo} width={100} height={50} />
+                  <Image
+                    src={ColoredLogo}
+                    width={100}
+                    height={50}
+                    alt="Lexa Technologies, LLC"
+                  />
                 </Link>
               </div>
               <div className="text-gray-400">
